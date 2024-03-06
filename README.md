@@ -467,4 +467,4 @@ Data: Sun Mar 03 2024 14:34:25 GMT-0300 (Horário Padrão de Brasília)
 
 ## ✅ Resolução do desafio
 
-* [Resolução]() - ⚠️ Será disponibilizada em breve.
+* [Resolução](https://github.com/giovanesouza/desafio-contas-bancarias-js/tree/resolucao)
